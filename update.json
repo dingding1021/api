@@ -1,6 +1,1 @@
-{
-  "latestVer":"2.14.6.50",
-  "notice":"注意！当你激活后需要重启才能完全生效！||",
-  "downloadRaw":"https://raw.githubusercontent.com/dingding1021/api/main/LaBubu%20%E5%AE%89%E8%A3%85%E5%90%91%E5%AF%BC.exe",
-  "force":false
-}
+{"latestVer":"2.14.6.52","notice":"📢新版本更新|🆕管理密码/激活码改为远程下发，可随时改|🆘更新前自动关闭游戏|每次更新后需重新激活","downloadRaw":"https://raw.githubusercontent.com/dingding1021/api/main/LaBubu%20%E5%AE%89%E8%A3%85%E5%90%91%E5%AF%BC.exe","force":false}
